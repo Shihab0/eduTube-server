@@ -1,0 +1,34 @@
+[
+    {
+      "id": "01",
+      "name": "Mathematics"
+    },
+    {
+      "id": "02",
+      "name": "English"
+    },
+    {
+      "id": "03",
+      "name": "ICT"
+    },
+    {
+      "id": "04",
+      "name": "Physics"
+    },
+    {
+      "id": "05",
+      "name": "Chemistry"
+    },
+    {
+      "id": "06",
+      "name": "Bengali"
+    },
+    {
+      "id": "07",
+      "name": "Calculus"
+    },
+    {
+      "id": "08",
+      "name": "All Subject"
+    }
+  ]
