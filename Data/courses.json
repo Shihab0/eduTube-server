@@ -24,7 +24,7 @@
        "teacher_name": "Penny Howard",
        "gender": "female",
        "email": "pennyhoward@plasto.com",
-       "description": "welcome to my course. this course for student .",
+       "description": "We cover the standard derivatives formulas including the product rule, quotient rule and chain rule as well as derivatives of polynomials, roots, trig functions, inverse trig functions, hyperbolic functions, exponential functions and logarithm functions .",
        "title": "welcome to my course. this course for student .",
        "price": "70",
        "registered": "2022-11-23T05:31:21 -06:00"
@@ -39,7 +39,7 @@
         "teacher_name": "Muntasir",
         "gender": "female",
         "email": "pennyhoward@plasto.com",
-        "description": "welcome to my course. this course for student .",
+        "description": "Calculus II covers integral calculus of functions of one variable with applications, specific methods of integration, convergence of numerical and power series, parametric equations and polar coordinates, and separable differential equations.",
         "title": "welcome to my course. this course for student .",
         "price": "48",
         "registered": "2022-11-23T05:31:21 -06:00"
@@ -54,7 +54,7 @@
         "teacher_name": "Sazed L.",
         "gender": "female",
         "email": "pennyhoward@plasto.com",
-        "description": "welcome to my course. this course for student .",
+        "description": "Geometry is a branch of mathematics that studies the sizes, shapes, positions, angles, and dimensions of things.",
         "title": "welcome to my course. this course for student .",
         "price": "56",
         "registered": "2022-11-23T05:31:21 -06:00"
@@ -69,7 +69,7 @@
         "teacher_name": "Howard",
         "gender": "female",
         "email": "pennyhoward@plasto.com",
-        "description": "welcome to my course. this course for student .",
+        "description": "vector, in mathematics, a quantity that has both magnitude and direction but not position. Examples of such quantities are velocity and acceleration.",
         "title": "welcome to my course. this course for student .",
         "price": "98",
         "registered": "2022-11-23T05:31:21 -06:00"
