@@ -9,7 +9,7 @@ const categories = require('./Data/categories.json');
 const courses = require('./Data/courses.json');
 
 app.get('/', (req, res) => {
-    res.send('working');
+    res.send(courses);
 });
 
 app.get('/course', (req, res) => {
@@ -23,6 +23,13 @@ app.get('/allCourse', (req, res) => {
 app.get('/course/:id', (req, res) => {
     const id = req?.params?.id;
     const selectedCourse = courses.filter(course => course.course_id === id);
+    res.send(selectedCourse); 
+});
+
+app.get('/buy/:id', (req, res) => {
+    const id = req?.params?.id;
+    console.log(id)
+    const selectedCourse = courses.find(course => course._id === id);
     res.send(selectedCourse); 
 })
 

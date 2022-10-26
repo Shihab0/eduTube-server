@@ -2,7 +2,7 @@
     {
        "_id": "6357ec9123358c80d441e341",
        "course_id": "00",
-       "subject": "",
+       "subject": "Logical math",
        "isActive": false,
        "picture": "https://i.ytimg.com/vi/WsQQvHm4lSw/maxresdefault.jpg",
        "sell": 523,
@@ -11,6 +11,7 @@
        "email": "nicholekim@plasto.com",
        "description": "welcome to my course. this course for student .",
        "title": "welcome to my course. this course for student .",
+       "price": "40",
        "registered": "2022-12-16T06:10:21 -06:00"
     },
     {
@@ -25,6 +26,7 @@
        "email": "pennyhoward@plasto.com",
        "description": "welcome to my course. this course for student .",
        "title": "welcome to my course. this course for student .",
+       "price": "70",
        "registered": "2022-11-23T05:31:21 -06:00"
     },
     {
@@ -39,6 +41,7 @@
         "email": "pennyhoward@plasto.com",
         "description": "welcome to my course. this course for student .",
         "title": "welcome to my course. this course for student .",
+        "price": "48",
         "registered": "2022-11-23T05:31:21 -06:00"
      },
     {
@@ -53,6 +56,7 @@
         "email": "pennyhoward@plasto.com",
         "description": "welcome to my course. this course for student .",
         "title": "welcome to my course. this course for student .",
+        "price": "56",
         "registered": "2022-11-23T05:31:21 -06:00"
      },
     {
@@ -67,6 +71,7 @@
         "email": "pennyhoward@plasto.com",
         "description": "welcome to my course. this course for student .",
         "title": "welcome to my course. this course for student .",
+        "price": "98",
         "registered": "2022-11-23T05:31:21 -06:00"
      },
     {
@@ -81,6 +86,7 @@
        "email": "maykeith@plasto.com",
        "description": "welcome to my course. this course for student .",
        "title": "welcome to my course. this course for student .",
+       "price": "40",
        "registered": "2022-12-23T12:40:55 -06:00"
     },
     {
@@ -95,6 +101,7 @@
        "email": "maykeith@plasto.com",
        "description": "welcome to my course. this course for student .",
        "title": "welcome to my course. this course for student .",
+       "price": "30",
        "registered": "2022-12-23T12:40:55 -06:00"
     },
     {
@@ -109,6 +116,7 @@
        "email": "noemilove@plasto.com",
        "description": "welcome to my course. this course for student .",
        "title": "welcome to my course. this course for student .",
+       "price": "40",
        "registered": "2022-11-02T04:42:07 -06:00"
     },
     {
@@ -123,6 +131,7 @@
        "email": "petersencunningham@plasto.com",
        "description": "welcome to my course. this course for student .",
        "title": "welcome to my course. this course for student .",
+       "price": "80",
        "registered": "2022-12-27T11:16:20 -06:00"
     },
     {
@@ -137,6 +146,7 @@
        "email": "leslierios@plasto.com",
        "description": "welcome to my course. this course for student .",
        "title": "welcome to my course. this course for student .",
+       "price": "47",
        "registered": "2022-11-15T11:21:17 -06:00"
     },
     {
@@ -151,6 +161,7 @@
        "email": "rasmussenparks@plasto.com",
        "description": "welcome to my course. this course for student .",
        "title": "welcome to my course. this course for student .",
+       "price": "42",
        "registered": "2022-12-25T02:43:07 -06:00"
     },
     {
@@ -165,6 +176,7 @@
        "email": "heidikline@plasto.com",
        "description": "welcome to my course. this course for student .",
        "title": "welcome to my course. this course for student .",
+       "price": "55",
        "registered": "2022-12-05T05:58:18 -06:00"
     },
     {
@@ -179,6 +191,7 @@
        "email": "davidmunoz@plasto.com",
        "description": "welcome to my course. this course for student .",
        "title": "welcome to my course. this course for student .",
+       "price": "77",
        "registered": "2022-10-26T09:02:08 -06:00"
     }
  ]
