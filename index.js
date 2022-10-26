@@ -22,6 +22,9 @@ app.get('/allCourse', (req, res) => {
 
 app.get('/course/:id', (req, res) => {
     const id = req?.params?.id;
+    if(id == 08){
+        res.send(courses)
+    }
     const selectedCourse = courses.filter(course => course.course_id === id);
     res.send(selectedCourse); 
 });
